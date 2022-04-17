@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gambit</string>
+    <string name="price">350₽</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="cool">0</string>
+    <string name="basket">КОРЗИНА</string>
+    <string name="bizon">alliyo</string>
+    <string name="clock">О нас</string>
+    <string name="kiski">Сеть ресторанов GAMBIT — это прежде всего вкусные и свежие блюда.\n В меню предоставлен выбор из более 400 видов блюд европейской, кавказской (дагестанской), японской кухонь, шашлыки, хинкали и пицца.\n В ресторане GAMBIT на Магомедтагирова, 155в для вашего отдыха предоставлены:\n • сцена;\n • диджей;\n • караоке-зал на 70 человек;\n • общий зал для торжеств с посадкой на 170 мест. \n Также имеется возможность пригласить звезд любого масштаба для проведения вашего мероприятия.</string>
+</resources>
